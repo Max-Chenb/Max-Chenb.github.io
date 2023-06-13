@@ -11,21 +11,21 @@ P.S., click the hyperlink title to access the source.<br>
 #### [Background-Adaptive Surface Defect Detection Neural Networks via Positive Samples](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/stn.png">
 </center>
 <br>
 
 #### [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/202208cenim.pdf)
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/A_Net.jpg">
 </center>
 <br>
 
 #### [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDI-NAS.pdf)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/SDI_NAS.png">
 </center>
 
 <br>
@@ -33,7 +33,7 @@ P.S., click the hyperlink title to access the source.<br>
 #### [Trading strategy: a multi-dimensional market trading decision model](https://max-chenb.github.io/mypaper/2202981.pdf)
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/2202981.png">
 </center>
 <br>
 
