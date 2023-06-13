@@ -8,21 +8,21 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)
+#### [Background-Adaptive Surface Defect Detection Neural Networks via Positive Samples](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)
 
 <center>
 <img src="/images/resnet-ahp.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://max-chenb.github.io/mypaper/modeling/202302COMAP.pdf)
+#### [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/202208cenim.pdf)
 
 <center>
 <img src="/images/MCM-figure3.jpg">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDI-NAS.pdf)
 
 <center>
 <img src="/images/openiot-system.png">
@@ -30,7 +30,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://max-chenb.github.io/mypaper/202208cenim.pdf )
+#### [Trading strategy: a multi-dimensional market trading decision model](https://max-chenb.github.io/mypaper/2202981.pdf)
 
 <center>
 <img src="/images/iot-manager.png">

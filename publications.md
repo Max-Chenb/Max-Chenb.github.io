@@ -6,18 +6,20 @@ title: Publications
 
 # Publications
 
-Lastest Update: 9th May 2023&nbsp;  [中文 (Chinese Version)](https://max-chenb.github.io/publications-zh/)
+<!-- Lastest Update: 9th May 2023&nbsp;  [中文 (Chinese Version)](https://max-chenb.github.io/publications-zh/) -->
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://max-chenb.github.io/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [Background-Adaptive Surface Defect Detection Neural Networks via Positive Samples](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)<br>Tongzhi Niu, **Biao Chen** (Co-first author), Zhenrong Wang, Ruoqi Zhang, Bin Li*<br>submitted to the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023).
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://max-chenb.github.io/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://max-chenb.github.io/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/202208cenim.pdf)<br>**Biao Chen**, Tongzhi Niu (Co-first author), Wenyong Yu*, Ruoqi Zhang, Zhenrong Wang, Bin Li<br>submitted to IEEE Transactions on Instrumentation & Measurement [J]. (SCI, Q1, IF= 5.332)
+
+- [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/modeling/SDI-NAS.pdf)<br>**Biao Chen**, Tongzhi Niu*, Yuchen Lin, Hang Zhang, Baohui Liu and Miao Wang<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>R&R, International Journal of Machine Learning and Cybernetics[J]. (SCI, Q2, IF=4.377)
 
 ## Competition Paper
 
-- [Reshape the Crowning Glory of Maasai Mara](https://max-chenb.github.io/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
+- [Trading strategy: a multi-dimensional market trading decision model](https://max-chenb.github.io/mypaper/2202981.pdf)<br>**Biao Chen**, Yunshu Zhou, Lanlin Zhu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>
 
-## Working Paper
+<!-- ## Working Paper
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://max-chenb.github.io/mypaper/202210camb.pdf) (29th Dec 2022)
+- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://max-chenb.github.io/mypaper/202210camb.pdf) (29th Dec 2022) -->
