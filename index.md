@@ -8,7 +8,7 @@ layout: page
 
 Here is **Biao Chen (陈彪)**.
 
-I am a junior majoring in **Machine Design, Manufacturing and Automation ** at Huazhong University of Science and Technology. I am extremely fortunate to be advised by [Prof. Bin Li](http://mse.hust.edu.cn/info/1143/1365.htm), [Prof. Huan Zhao](http://faculty.hust.edu.cn/zhaohuan/zh_CN/index.htm) and [Prof. Wenyong Yu](http://mse.hust.edu.cn/info/1145/1440.htm). Here is [my Resume](https://caihanlin.com/file/CV.pdf).
+I am a junior majoring in **Machine Design, Manufacturing and Automation** at Huazhong University of Science and Technology. I am extremely fortunate to be advised by [Prof. Bin Li](http://mse.hust.edu.cn/info/1143/1365.htm), [Prof. Huan Zhao](http://faculty.hust.edu.cn/zhaohuan/zh_CN/index.htm) and [Prof. Wenyong Yu](http://mse.hust.edu.cn/info/1145/1440.htm). Here is [my Resume](https://caihanlin.com/file/CV.pdf).
 
 ## Research Interests
 
@@ -16,7 +16,7 @@ My current research focuses on Industrial Surface Defect Detection Based on Mach
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024 & 2025]. Contact me if you have any leads!**
+- **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024]. Contact me if you have any leads!**
 - **Apr 2023：**Excellent Conclusion of National College Student Innovation and Entrepreneurship Project
 - **May 2022：**Honorable Mention of Mathematical Contest in Modeling Certificate of Achievement (30%)
 - **Dec 2021：**First Prize of Asian Engineering Mechanics Competition (30%)
