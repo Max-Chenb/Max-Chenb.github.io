@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/BiaoChen.jpg" class="floatpic" width="360" height="480">
+<img src="https://max-chenb.github.io/BiaoChen.jpg" class="floatpic" width="360" height="480">
 
 Here is **Biao Chen (陈彪)**.
 

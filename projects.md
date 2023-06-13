@@ -8,14 +8,14 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)
 
 <center>
 <img src="/images/resnet-ahp.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://max-chenb.github.io/mypaper/modeling/202302COMAP.pdf)
 
 <center>
 <img src="/images/MCM-figure3.jpg">
@@ -30,7 +30,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+#### [CityManager: Community Monitoring System](https://max-chenb.github.io/mypaper/202208cenim.pdf )
 
 <center>
 <img src="/images/iot-manager.png">
@@ -39,7 +39,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
----
+<!-- ---
 
 # Open-source Projects
 
@@ -55,4 +55,4 @@ Many elegant LaTeX templates designed for FZU students, including Beamer Theme S
 
 #### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
 
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!** -->
