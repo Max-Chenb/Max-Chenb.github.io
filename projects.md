@@ -18,7 +18,7 @@ P.S., click the hyperlink title to access the source.<br>
 #### [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/202208cenim.pdf)
 
 <center>
-<img src="/images/A_Net.jpg">
+<img src="/images/A_Net.png">
 </center>
 <br>
 
