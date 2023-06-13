@@ -8,7 +8,7 @@ layout: page
 
 Here is **Biao Chen (陈彪)**.
 
-I am a junior majoring in **Machine Design, Manufacturing and Automation** at Huazhong University of Science and Technology. I am extremely fortunate to be advised by [Prof. Bin Li](http://mse.hust.edu.cn/info/1143/1365.htm), [Prof. Huan Zhao](http://faculty.hust.edu.cn/zhaohuan/zh_CN/index.htm) and [Prof. Wenyong Yu](http://mse.hust.edu.cn/info/1145/1440.htm). Here is [my Resume](https://caihanlin.com/file/CV.pdf).
+I am a junior majoring in **Machine Design, Manufacturing and Automation** at Huazhong University of Science and Technology. I am extremely fortunate to be advised by [Prof. Bin Li](http://mse.hust.edu.cn/info/1143/1365.htm), [Prof. Huan Zhao](http://faculty.hust.edu.cn/zhaohuan/zh_CN/index.htm) and [Prof. Wenyong Yu](http://mse.hust.edu.cn/info/1145/1440.htm). Here is [my Resume](https://max-chenb.github.io/file/CV.pdf).
 
 ## Research Interests
 
