@@ -20,7 +20,7 @@ title: Publications
 
 - [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/ANet.pdf)<br>**Biao Chen**, Tongzhi Niu (Co-first author), Wenyong Yu*, Ruoqi Zhang, Zhenrong Wang, Bin Li<br>R&R, IEEE Transactions on Instrumentation & Measurement [J]. (SCI, Q1, IF= 5.332)
 
-- [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDINAS.pdf)<br>**Biao Chen**, Tongzhi Niu*, Yuchen Lin, Hang Zhang, Baohui Liu and Miao Wang<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>R&R, International Journal of Machine Learning and Cybernetics[J]. (SCI, Q2, IF=4.377)
+- [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDINAS.pdf)<br>**Biao Chen**, Tongzhi Niu*, Yuchen Lin, Hang Zhang, Baohui Liu, Miao Wang<br>R&R, International Journal of Machine Learning and Cybernetics[J]. (SCI, Q2, IF=4.377)
 
 ## Competition Paper
 
