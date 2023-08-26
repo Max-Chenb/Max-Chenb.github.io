@@ -8,26 +8,40 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [Background-Adaptive Surface Defect Detection Neural Networks via Positive Samples](https://max-chenb.github.io/mypaper/202302ICAROB.pdf)
+#### [Batch Adaptive Defect Segmentation Networks Based on Feature Matching](https://max-chenb.github.io/mypaper/Match.pdf)
+
+<center>
+<img src="/images/match.png">
+</center>
+<br>
+
+#### [Batch Adaptive Defect Segmentation Networks Based on Feature Alignment](https://max-chenb.github.io/mypaper/BANet.pdf)
 
 <center>
 <img src="/images/stn.png">
 </center>
 <br>
 
-#### [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/202208cenim.pdf)
+#### [Lightweight Real-Time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/ANet.pdf)
 
 <center>
 <img src="/images/A_Net.png">
 </center>
 <br>
 
-#### [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDI-NAS.pdf)
+#### [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDINAS.pdf)
 
 <center>
 <img src="/images/SDI_NAS.png">
 </center>
 
+<br>
+
+Robot-Based High-Quality Grinding of Large Thermoplastic Composite Members
+
+<center>
+<img src="/images/robot.png">
+</center>
 <br>
 
 #### [Trading strategy: a multi-dimensional market trading decision model](https://max-chenb.github.io/mypaper/2202981.pdf)
