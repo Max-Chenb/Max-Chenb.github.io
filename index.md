@@ -8,7 +8,7 @@ layout: page
 
 Here is **Biao Chen (陈彪)**.
 
-I am a junior majoring in **Machine Design, Manufacturing and Automation** at Huazhong University of Science and Technology. I am extremely fortunate to be advised by [Prof. Bin Li](http://mse.hust.edu.cn/info/1143/1365.htm), [Prof. Huan Zhao](http://faculty.hust.edu.cn/zhaohuan/zh_CN/index.htm) and [Prof. Wenyong Yu](http://mse.hust.edu.cn/info/1145/1440.htm). Here is [my Resume](https://max-chenb.github.io/file/CV.pdf).
+I am a junior majoring in **Machine Design, Manufacturing and Automation** at Huazhong University of Science and Technology. I am extremely fortunate to be advised by [Prof. Bin Li](http://english.mse.hust.edu.cn/info/1081/2036.htm), [Prof. Huan Zhao](http://english.mse.hust.edu.cn/info/1069/1170.htm) and [Prof. Wenyong Yu](http://english.mse.hust.edu.cn/info/1068/1178.htm). Here is [my Resume](https://max-chenb.github.io/file/CV.pdf) and [my UNDERGRADUATE ACADEMIC RECORD](https://max-chenb.github.io/file/grades.pdf).
 
 ## Research Interests
 
@@ -16,11 +16,12 @@ My current research focuses on Industrial Surface Defect Detection Based on Mach
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024]. Contact me if you have any leads!**
+- **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024]. Contact me if you are interested!**
+- **Jul 2023：**A paper accepted by the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023)!
+- **Jul 2023：**Start the online research project advised by [Prof. Guo Ping](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-ping.html)!
 - **Apr 2023：**Excellent Conclusion of National College Student Innovation and Entrepreneurship Project
 - **May 2022：**Honorable Mention of Mathematical Contest in Modeling Certificate of Achievement (30%)
 - **Dec 2021：**First Prize of Asian Engineering Mechanics Competition (30%)
 - **Sep 2021：**Science and Technology Innovation Scholarship in Huazhong University of Science and Technology (2/30)
 - **Jul 2021：**First Prize of Advanced Mapping Technology and Product Modeling Innovation Competition (10%)
-- **Dec 2021：**First Prize of Asian Engineering Mechanics Competition (30%)
 - **Nov 2020：**First Prize of National College Mathematics Challenge (20%)
