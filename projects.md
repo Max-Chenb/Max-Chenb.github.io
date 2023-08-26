@@ -37,7 +37,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [Robot-Based High-Quality Grinding of Large Thermoplastic Composite Members]
+#### Robot-Based High-Quality Grinding of Large Thermoplastic Composite Members
 
 <center>
 <img src="/images/robot.png">
