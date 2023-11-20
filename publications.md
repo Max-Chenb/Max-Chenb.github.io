@@ -14,13 +14,13 @@ title: Publications
 
 ## Journal Paper
 
-- [Feature Matching Driven Background Generalization Neural Networks for Surface Defect Segmentation](https://max-chenb.github.io/mypaper/Match.pdf)<br>**Biao Chen**, Tongzhi Niu*, Ruoqi Zhang, Hang Zhang, Yuchen Lin, Bin Li<br>Under review, Knowledge-Based Systems [J] (SCI, Q1, IF=8.800)
+- [Feature Matching Driven Background Generalization Neural Networks for Surface Defect Segmentation](https://max-chenb.github.io/mypaper/Match.pdf)<br>**Biao Chen**, Tongzhi Niu*, Ruoqi Zhang, Hang Zhang, Yuchen Lin, Bin Li<br>Under review, Knowledge-Based Systems [J] (SCI, Q1, IF=8.800).
 
-- [Scoring Bayesian Neural Networks for Learning from Inconsistent Labels in Surface Defect Segmentation](https://max-chenb.github.io/mypaper/ScoreBNN.pdf)<br>Tongzhi Niu*, **Biao Chen**, Qianhang Lv; Bei Li; Wei Luo; Bin Li<br>Under review, Measurement [J]. (SCI, Q1, IF=5.520)
+- [Scoring Bayesian Neural Networks for Learning from Inconsistent Labels in Surface Defect Segmentation](https://max-chenb.github.io/mypaper/ScoreBNN.pdf)<br>Tongzhi Niu*, **Biao Chen**, Qianhang Lv; Bei Li; Wei Luo; Bin Li<br>Under review, Measurement [J] (SCI, Q1, IF=5.6).
 
-- [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/ANet.pdf)<br>**Biao Chen**, Tongzhi Niu (Co-first author), Wenyong Yu*, Ruoqi Zhang, Zhenrong Wang, Bin Li<br>R&R, IEEE Transactions on Instrumentation & Measurement [J]. (SCI, Q1, IF= 5.332)
+- [A-Net: A Lightweight Real-time Segmentation Network for Surface Defect Detection](https://max-chenb.github.io/mypaper/ANet.pdf)<br>**Biao Chen**, Tongzhi Niu (Co-first author), Wenyong Yu*, Ruoqi Zhang, Zhenrong Wang, Bin Li<br>accepted, IEEE Transactions on Instrumentation & Measurement [J] (SCI, Q1, IF= 5.6).
 
-- [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDINAS.pdf)<br>**Biao Chen**, Tongzhi Niu*, Yuchen Lin, Hang Zhang, Baohui Liu, Miao Wang<br>R&R, International Journal of Machine Learning and Cybernetics[J]. (SCI, Q2, IF=4.377)
+- [Lightweight Convolutional Neural Networks for Surface Defect Segmentation Based on Neural Architecture Search](https://max-chenb.github.io/mypaper/SDINAS.pdf)<br>**Biao Chen**, Tongzhi Niu*, Yuchen Lin, Hang Zhang, Baohui Liu, Miao Wang<br>submitted, the Optics and Lasers in Engineering [J] (SCI, Q2, IF=4.6).
 
 ## Competition Paper
 

@@ -17,11 +17,12 @@ My current research focuses on Industrial Surface Defect Detection Based on Mach
 ## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024]. Contact me if you are interested!**
+- **Nov 2023：**A paper accepted by the IEEE Transactions on Instrumentation & Measurement!
 - **Jul 2023：**A paper accepted by the 49th Annual Conference of the IEEE Industrial Electronics Society (IECON 2023)!
 - **Jul 2023：**Start the online research project advised by [Prof. Guo Ping](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/guo-ping.html)!
-- **Apr 2023：**Excellent Conclusion of National College Student Innovation and Entrepreneurship Project
-- **May 2022：**Honorable Mention of Mathematical Contest in Modeling Certificate of Achievement (30%)
-- **Dec 2021：**First Prize of Asian Engineering Mechanics Competition (30%)
-- **Sep 2021：**Science and Technology Innovation Scholarship in Huazhong University of Science and Technology (2/30)
-- **Jul 2021：**First Prize of Advanced Mapping Technology and Product Modeling Innovation Competition (10%)
-- **Nov 2020：**First Prize of National College Mathematics Challenge (20%)
+- **Apr 2023：**Excellent Conclusion of National College Student Innovation and Entrepreneurship Project!
+- **May 2022：**Honorable Mention of Mathematical Contest in Modeling Certificate of Achievement (30%)!
+- **Dec 2021：**First Prize of Asian Engineering Mechanics Competition (30%)!
+- **Sep 2021：**Science and Technology Innovation Scholarship in Huazhong University of Science and Technology (2/30)!
+- **Jul 2021：**First Prize of Advanced Mapping Technology and Product Modeling Innovation Competition (10%)!
+- **Nov 2020：**First Prize of National College Mathematics Challenge (20%)!
