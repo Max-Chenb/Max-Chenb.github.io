@@ -13,7 +13,7 @@ I am a Ph.D. Pre-Candidate in **Mechanical Engineering** at the University of Mi
 
 ## Research Interests
 
-My current research focuses on Explainable AI in Industry, while my previous research focused on Industrial Surface Defect Detection Based on Machine Learning. My interests are on the **Machine Learning** and its applications in **Industrial Field**. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on **Explainable AI in Industry**, while my previous research focused on Industrial Surface Defect Detection Based on Machine Learning. My interests are on the **Machine Learning** and its applications in **Industrial Field**. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
 
