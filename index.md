@@ -8,7 +8,7 @@ layout: page
 
 Here is **Biao Chen (陈彪)**.
 
-I am a Ph.D. Pre-Candidate in **Mechanical Engineering** at the University of Michigan, Ann Arbor. I am extremely fortunate to be advised by [Prof. Xun Huan](https://uq-engin-umich-edu.proxy.lib.umich.edu/people/xun-huan/), the leader of [UQ-SciML Group](https://uq-engin-umich-edu.proxy.lib.umich.edu/).
+I am a Ph.D. Pre-Candidate in **Mechanical Engineering** at the University of Michigan, Ann Arbor. I am extremely fortunate to be advised by [Prof. Xun Huan](https://uq.engin.umich.edu/people/xun-huan/), the leader of [UQ-SciML Group](https://uq.engin.umich.edu/).
 
 
 ## Research Interests
