@@ -8,7 +8,7 @@ layout: page
 
 Here is **Biao Chen (陈彪)**.
 
-I am a Ph.D. student in **Mechanical Engineering** at the University of Michigan, Ann Arbor. I am extremely fortunate to work with my advisor, [Prof. Xun Huan](https://uq.engin.umich.edu/people/xun-huan/), who is the leader of [UQ-SciML Group](https://uq.engin.umich.edu/).
+I am a Ph.D. student in **Mechanical Engineering** at the University of Michigan, Ann Arbor. I am extremely fortunate to work with my advisor, [Prof. Xun Huan](https://uq.engin.umich.edu/people/xun-huan/), the leader of [UQ-SciML Group](https://uq.engin.umich.edu/).
 
 ## Research Interests
 
