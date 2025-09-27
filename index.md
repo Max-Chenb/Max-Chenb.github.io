@@ -8,13 +8,14 @@ layout: page
 
 Here is **Biao Chen (陈彪)**.
 
-I am a Ph.D. student in **Mechanical Engineering** at the University of Michigan, Ann Arbor. I am extremely fortunate to work with my advisor, [Prof. Xun Huan](https://uq.engin.umich.edu/people/xun-huan/), the leader of [UQ-SciML Group](https://uq.engin.umich.edu/).
+I am a Ph.D. candidate in **Mechanical Engineering** at the University of Michigan, Ann Arbor. I am extremely fortunate to work with my advisor, [Prof. Xun Huan](https://uq.engin.umich.edu/people/xun-huan/), the leader of [UQ-SciML Group](https://uq.engin.umich.edu/).
 
 ## Research Interests
 
-My current research focuses on **Explainable AI**, while my previous research focused on Industrial Surface Defect Detection Based on Machine Learning. My interests are on the **Machine Learning** and its applications in **Industrial Field**. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on **Explainable AI and its application in Mechanical Engineering**, while my previous research focused on Industrial Surface Defect Detection Based on Machine Learning. My interests are on the **Machine Learning** and its applications in **Industrial Field**. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
+- **Aug 2025:** Successfully pass the Ph.D. Qualifying Exam!
 - **Sep 2024:** Be a [MICDE Fellow](https://micde.umich.edu/member/biao-chen/) at the University of Michigan!
 - **Aug 2024: Start Ph.D. stage at the University of Michigan!**
 - **Jun 2024:** Successfully graduate from Huazhong University of Science and Technology and get the title of Outstanding Graduate! Thanks [Prof. Bin Li](http://english.mse.hust.edu.cn/info/1081/2036.htm), [Prof. Huan Zhao](http://english.mse.hust.edu.cn/info/1069/1170.htm) and [Prof. Wenyong Yu](http://english.mse.hust.edu.cn/info/1068/1178.htm) for their guidance!
