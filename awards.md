@@ -4,6 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 ## Ph.D. Stage:
+- Sep 2024：MICDE Fellowship
 
 ## Undergraduate Stage:
 
